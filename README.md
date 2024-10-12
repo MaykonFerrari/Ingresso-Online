@@ -5,7 +5,7 @@
 </div>
 
 <p>
-  📌 Esse projeto faz parte do curso da Alura sobre Lógica de Programação. O intuito deste projeto foi mostrar como utilizar a função <mark>parseInt</mark> para converter um valor do tipo <strong>String</strong> para <string>Number</string> e utilizar blocos condicionais para determinar
+  📌 Esse projeto faz parte do curso da Alura sobre Lógica de Programação. O intuito deste projeto foi mostrar como utilizar a função <mark>parseInt</mark> para converter um valor do tipo <strong>String</strong> para <strong>Number</strong> e utilizar blocos condicionais para determinar
   qual função deve ser chamada, de acordo com o valor armazenado na variável.
 </p>
 
